@@ -26,8 +26,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Ataha's GitHub Stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed3520&hide=contribs,prs)
-" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed3520&hide=contribs,prs)
+
 
 </details>
 
