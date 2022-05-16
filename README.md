@@ -4,9 +4,9 @@
 
 ## I'm a Developer, and Gamer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love football and its analysis.
+- 🌱 I’m currently learning Golang..
+- 🥅 2022 Goals: Contribute more to Open Source projects..
+- ⚡ Fun fact: I love football and its analysis..
 
 ### Connect with me:
 
