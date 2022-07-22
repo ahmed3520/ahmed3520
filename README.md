@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning Golang..
 - 🥅 2022 Goals: Contribute more to Open Source projects..
 - ⚡ Fun fact: I love football and its analysis..
+
+you can find my blogs here https://ataha352.hashnode.dev/
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
