@@ -1,6 +1,7 @@
 ### Hi there, I'm Ahmed 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ataha352?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAtaha352&screen_name=Ataha352)
+<!--
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ataha352?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAtaha352&screen_name=Ataha352)-->
 <a href="https://app.daily.dev/ataha352"><img src="https://github.com/ahmed3520/ahmed3520/blob/main/devcard.svg" width="256" align="right" alt="Ahmed Taha's Dev Card"/></a>
 ## I'm a Developer, and Gamer!!
 
