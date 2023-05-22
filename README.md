@@ -53,7 +53,7 @@ you can find my blogs here https://ataha352.hashnode.dev/
 
 </details>
 
-[twitter]: https://twitter.com/Ataha352
+[twitter]: https://twitter.com/Ataha3520
 [instagram]: https://www.instagram.com/_ahmed352_/
-[linkedin]: https://www.linkedin.com/in/ahmed-taha-0187ba19a/
+[linkedin]: https://www.linkedin.com/in/ahmed-taha352/
 
